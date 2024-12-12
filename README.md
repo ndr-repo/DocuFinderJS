@@ -11,7 +11,9 @@ If you are an investigator or intelligence professional, ensure you have proper 
 For external penetration testers & bug bounty hunters, only access scan results if you have received authorization from the target domain. By running a scan, this is passive reconnaissance. However, opening links contained in scan results is an active engagement. 
 
 These could be files containing sensitive info & downloaded directly to your machine on-access.
-I am not responsible for any legal or criminal proceedings filed against you from using this tool.
+
+**I am not responsible for any legal or criminal proceedings filed against you from using this tool**.
+
 # Getting Started
 To get started with the DocuFinderJS bookmarklet, perform the following:
 
