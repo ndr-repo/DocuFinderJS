@@ -1,6 +1,6 @@
 # DocuFinderJS
 
-**DocuFinder** is a JavaScript external attack surface monitoring (EASM) tool that automates traditional OSINT techniques to find externally accessible documents within a target domain.
+**DocuFinder** is an external attack surface monitoring (EASM) tool that automates traditional OSINT techniques to find externally accessible documents within a target domain.
 Protect your organization, improve your penetration tests, increase your bug bounty revenue, & more.
 
 # Disclaimer
