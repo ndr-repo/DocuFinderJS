@@ -20,28 +20,27 @@ To get started with the DocuFinderJS bookmarklet, perform the following:
 2. **Highlight the source code & copy. No need to make any changes**.
 
 3. **Open your browser of choice**. 
-	I have found Firefox works best for working with bookmarklets.
+	- I have found Firefox works best for working with bookmarklets.
 
 4. **Create a bookmark in your browser's bookmark bar**. 
-	You'll want to set the bar to always appear.
+	- You'll want to set the bar to always appear.
 
 5. **Paste the bookmarklet in the URL section**. 
-	To validate, press the "HOME" key after pasting & verify the entry begins with "javascript:".
+	- To validate, press the "HOME" key after pasting & verify the entry begins with "javascript:".
 
 6. **Create a name for the bookmarklet**.
-	I recommend setting this to the name included with the release, such as "DocuFinderJS v1.3"
-	This way, when I release updates, you can easily verify if you are running the latest release.
+	- I recommend setting this to the name included with the release, such as "DocuFinderJS v1.3" This way, when I release updates, you can easily verify if you are running the latest release.
 
 7. **Create a new tab and click on the bookmarklet**. 
-	I recommend running this in a new tab in a dedicated browser for these tools, since you'll have to disable pop-ups. This is only to open windows containing your search results, nothing more.
+	- I recommend running this in a new tab in a dedicated browser for these tools, since you'll have to disable pop-ups. This is only to open windows containing your search results, nothing more.
 
 8. **Enter your target domain in the prompt**. 
-	If you are a penetration tester, this could be a client you are performing passive reconnaissance on. 
-	If you are working on a bug bounty program, the same would apply when this is authorized & in-scope. 
-	If you are a cybersecurity analyst or information security officer, this might be your employer's domain.
+	- If you are a penetration tester, this could be a client you are performing passive reconnaissance on. 
+	- If you are working on a bug bounty program, the same would apply when this is authorized & in-scope. 
+	- If you are a cybersecurity analyst or information security officer, this might be your employer's domain.
 
 9. **Review your results & enjoy**. 
-	 Once again, please verify that the domain containing the files is in-scope for the project you are supporting prior to access. 
+	 - Once again, please verify that the domain containing the files is in-scope for the project you are supporting prior to access. 
 
 # External Links
 
