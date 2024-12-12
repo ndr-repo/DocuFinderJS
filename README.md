@@ -12,7 +12,7 @@ For external penetration testers & bug bounty hunters, only access scan results 
 
 These could be files containing sensitive info & downloaded directly to your machine on-access.
 
-**I am not responsible for any legal or criminal proceedings filed against you from using this tool**.
+**I am not responsible for any legal or criminal proceedings filed against you for using this tool**.
 
 # Getting Started
 To get started with the DocuFinderJS bookmarklet, perform the following:
