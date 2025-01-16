@@ -6,7 +6,7 @@ Protect your organization, improve your penetration tests, increase your bug bou
 # Disclaimer
 **DocuFinder is intended for authorized use only**. 
 
-If you are an investigator or intelligence professional, ensure you have proper jurisdiction prior to accessing results. 
+If you are an investigator or open-source intelligence professional, ensure you have proper jurisdiction prior to accessing results. 
 
 For external penetration testers & bug bounty hunters, only access scan results if you have received authorization from the target domain. By running a scan, this is passive reconnaissance. However, opening links contained in scan results is an active engagement. 
 
