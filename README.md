@@ -6,13 +6,15 @@ Protect your organization, improve your penetration tests, increase your bug bou
 # Disclaimer
 **DocuFinder is intended for authorized use only**. 
 
-If you are an investigator or open-source intelligence professional, ensure you have proper jurisdiction prior to accessing results. 
+- If you are an investigator or open-source intelligence professional, ensure you have proper jurisdiction prior to accessing results. 
 
-For external penetration tests & bug bounty work, only access scan results after verifying authorization from the target domain (ex: Is the URL in-scope?). By running a scan, this is passive reconnaissance. However, opening links contained in scan results is an active engagement. 
+- For external penetration tests & bug bounty work, only access scan results after verifying authorization from the target domain. 
+- ex: Is the URL in-scope?
+- By running a scan, this is passive reconnaissance. However, opening links contained in scan results is an active engagement. 
 
-These could be files containing sensitive info & downloaded directly to your machine on-access.
+- These could be files containing sensitive info & downloaded directly to your machine on-access.
 
-**I am not responsible for any legal or criminal proceedings filed against you for using this tool**.
+- **I am not responsible for any legal or criminal proceedings filed against you for using this tool**.
 
 # Getting Started
 To get started with the DocuFinderJS bookmarklet, perform the following:
