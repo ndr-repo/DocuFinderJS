@@ -9,7 +9,7 @@ Protect your organization, improve your penetration tests, increase your bug bou
 - If you are an investigator or open-source intelligence professional, ensure you have proper jurisdiction prior to accessing results. 
 
 - For external penetration tests & bug bounty work, only access scan results after verifying authorization from the target domain. 
-- ex: Is the URL in-scope?
+- ex: Is the URL in-scope of my penetration test or investigation?
 - By running a scan, this is passive reconnaissance. However, opening links contained in scan results is an active engagement. 
 
 - These could be files containing sensitive info & downloaded directly to your machine on-access.
