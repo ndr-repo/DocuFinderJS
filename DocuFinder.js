@@ -1,12 +1,20 @@
-javascript:
-input = prompt("Enter the target domain");
-pdf=("https://www.google.com/search?q=(filetype:pdf+%7C+ext:pdf)+site:*.")+input+("&filter=0");
-pdfDdg=("https://duckduckgo.com/?q=filetype%3Apdf+site%3A")+input;
-ppt=("https://www.google.com/search?q=(filetype:ppt+%7C+ext:ppt+%7C+filetype:pptx+%7C+ext:pptx)+site:*.")+input+("&filter=0");
-pptDdg=("https://duckduckgo.com/?q=filetype%3Appt+site%3A")+input;
-docx=("https://www.google.com/search?q=(filetype:doc+%7C+ext:doc+%7C+filetype:docx+%7C+ext:docx)+site:*.")+input+("&filter=0");
-docDdg=("https://duckduckgo.com/?q=filetype%3Adoc+site%3A")+input;
-xlsx=("https://www.google.com/search?q=(filetype:xlsx+%7C+ext:xlsx+%7C+filetype:xls+%7C+ext:xls+%7C+filetype:csv+%7C+ext:csv)+site:*.")+input+("&filter=0");
-xlsDdg=("https://duckduckgo.com/?q=filetype%3Axls+site%3A")+input;
-function GetDocs(){ window.open(pdf); window.open(pdfDdg); window.open(ppt); window.open(pptDdg); window.open(docx); window.open(docDdg); window.open(xlsx); window.open(xlsDdg);};        GetDocs()
-     // discoveryOpsJS: DocuFinder // Created by Gabriel H. @weekndr_sec // Respect to @WebBreacher, @K2SOsint, & @hatless1der
+javascript:input = prompt("DocuFinderJS - April 2025 Update\nSearch engine reconnaisance for indexed documents & MS Office files\nWSTG Scenario ID: WSTG-INFO-01\n\nEnter the target domain: ");
+pdf = ("https://www.google.com/search?q=(filetype:pdf | ext:pdf) site:")+input+("&filter=0");
+pdfBing = ("https://bing.com/?q=(filetype:pdf | ext:pdf) site:")+input;
+ppt = ("https://www.google.com/search?q=(filetype:ppt | ext:ppt | filetype:pptx | ext:pptx) site:")+input+("&filter=0");
+pptBing = ("https://bing.com/?q=(filetype:ppt | ext:ppt | filetype:pptx | ext:pptx) site:")+input;
+docx = ("https://www.google.com/search?q=(filetype:doc | ext:doc | filetype:docx | ext:docx) site:")+input+("&filter=0");
+docBing = ("https://bing.com/?q=(filetype:doc | ext:doc | filetype:docx | ext:docx) site:")+input;
+xlsx = ("https://www.google.com/search?q=(filetype:xlsx | ext:xlsx | filetype:xls | ext:xls | filetype:csv | ext:csv) site:")+input+("&filter=0");
+xlsBing = ("https://bing.com/?q=(filetype:xls | ext:xls | filetype:xlsx | ext:xlsx) site:")+input;
+function GetDocs() {
+    window.open(pdf);
+    window.open(pdfBing);
+    window.open(ppt);
+    window.open(pptBing);
+    window.open(docx);
+    window.open(docBing);
+    window.open(xlsx);
+    window.open(xlsBing);
+};
+GetDocs();
