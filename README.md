@@ -23,8 +23,7 @@ To get started with the DocuFinderJS bookmarklet, perform the following:
 
 2. **Highlight the source code & copy. No need to make any changes**.
 
-3. **Open your browser of choice**. 
-	- I have found Firefox works best for working with bookmarklets.
+3. **Open your browser of choice**.
 
 4. **Create a bookmark in your browser's bookmark bar**. 
 	- You'll want to set the bar to always appear.
