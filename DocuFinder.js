@@ -7,7 +7,7 @@ javascript:(() => {
   const STYLES = `
     :host { all: initial; }
     .dfj-wrap{position:fixed;top:16px;right:16px;z-index:2147483647;font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif}
-    .card{background:#fff;border:1px solid #d9e2ec;border-radius:12px;box-shadow:0 10px 28px rgba(0,0,0,.12);padding:14px;min-width:340px}
+    .card{background#:333333;border:1px solid #d9e2ec;border-radius:12px;box-shadow:0 10px 28px rgba(0,0,0,.12);padding:14px;min-width:340px}
     .title{font-weight:700;font-size:14px;margin:0 0 8px 0}
     .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px}
     .group{border:1px solid #eef2f6;border-radius:10px;padding:8px;margin-top:8px}
@@ -17,7 +17,7 @@ javascript:(() => {
     .actions{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
     button{border:0;border-radius:10px;padding:8px 10px;font-weight:600;cursor:pointer}
     .run{background:#0b69ff;color:#fff}
-    .cancel{background:#e2e8f0}
+    .cancel{background:#0b69ff}
     .tiny{font-size:11px;color:#475569;margin-top:6px}
   `;
 
@@ -59,9 +59,15 @@ javascript:(() => {
   wrap.className = 'dfj-wrap';
   wrap.innerHTML = `
     <div class="card" role="dialog" aria-label="DocuFinderJS">
-      <div class="title">DocuFinderJS — Nov 2025 Update in collab with K2SOsint.</div>
+      <div class="title">DocuFinderJS</div>
       <div class="row" style="align-items:center">
-      Search engine reconnaisance for indexed documents, txt/rtf & MS Office files<br>WSTG Scenario ID: WSTG-INFO-01
+      Created by weekndr_sec & K2SOsint
+      </div>
+      <div class="row" style="align-items:center">
+      WSTG Scenario ID: WSTG-INFO-01
+      </div>
+      <div class="row" style="align-items:center">
+      Search engine reconnaisance for indexed documents, txt/rtf & MS Office files
       </div>
       <div class="row" style="align-items:center">
         <input type="text" id="domain" placeholder="Target domain (e.g. example.com)" value="example.com" />
