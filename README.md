@@ -1,11 +1,13 @@
 # DocuFinderJS
 
-![docufinderjs_apr25](https://github.com/user-attachments/assets/fc97dce3-ebab-4d48-9d2b-69e72faa31fc)
+<img width="743" height="601" alt="DocuFinderJS" src="https://github.com/user-attachments/assets/410e7913-9cd9-4d40-b0a8-3fd92f8661a6" />
+
+## Description 
 
 **DocuFinder** is an external attack surface monitoring (EASM) tool that automates traditional OSINT techniques to find externally accessible documents within a target domain.
 Protect your organization, improve your penetration tests, increase your bug bounty revenue, & more.
 
-# Disclaimer
+## Disclaimer
 **DocuFinder is intended for authorized use only**. 
 
 - If you are an investigator or open-source intelligence professional, ensure you have proper jurisdiction prior to accessing results. 
@@ -18,7 +20,7 @@ Protect your organization, improve your penetration tests, increase your bug bou
 
 - **I am not responsible for any legal or criminal proceedings filed against you for using this tool**.
 
-# Getting Started
+## Getting Started
 To get started with the DocuFinderJS bookmarklet, perform the following:
 
 1. **Open the source code in any text editor**.
@@ -47,7 +49,7 @@ To get started with the DocuFinderJS bookmarklet, perform the following:
 9. **Review your results & enjoy**. 
 	 - Once again, please verify that the domain containing the files is in-scope for the project you are supporting prior to access. 
 
-# External Links
+## External Links
 
 - For more info on using JavaScript bookmarklets, check out this guide.
 	- [**Installing Bookmarklets - mreidsma.github.io**](https://mreidsma.github.io/bookmarklets/installing.html)
